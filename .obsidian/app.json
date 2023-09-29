@@ -3,5 +3,7 @@
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "adjuntos",
-  "showLineNumber": true
+  "showLineNumber": true,
+  "showInlineTitle": false,
+  "defaultViewMode": "preview"
 }
