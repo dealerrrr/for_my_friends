@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "98ec183ecf420029",
+        "id": "e0031feb2b4a4177",
         "type": "tabs",
         "children": [
           {
-            "id": "a048f77437a1998c",
+            "id": "d83fc176b3bcb27b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -134,8 +134,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a048f77437a1998c",
+  "active": "d83fc176b3bcb27b",
   "lastOpenFiles": [
+    "B1. Introducción_a_las_criptomonedas/B1.U1.Criptomonedas,_el_inicio_de_la_revolución_del_dinero/7.B1.U1.1_¿Qué_son_las_criptomonedas_.md",
+    "B1. Introducción_a_las_criptomonedas/B1.U1.Criptomonedas,_el_inicio_de_la_revolución_del_dinero/8.B1.Blockchain.md",
+    "B1. Introducción_a_las_criptomonedas/B1.U1.Criptomonedas,_el_inicio_de_la_revolución_del_dinero/6.B1_Qué_son_las_criptomonedas_.md",
     "B0.Web3MBA_PRO/4.A_qué_tengo_acceso?.md",
     "B0.Web3MBA_PRO/3.Roadmap.md",
     "B0.Web3MBA_PRO/2.Esquema.md",
