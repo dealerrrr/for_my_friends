@@ -1,0 +1,90 @@
+En Bit2Me, la parte de educación es muy importante, de hecho creamos una red testnet
+de Bitcoin que permite interactuar directamente con la propia tecnología sin poner en riesgo
+ningún fondo, entonces nos permitiría hacer una transacción como la haríamos directamente
+utilizando la blockchain de Bitcoin, pero en este caso sin coste para nosotros y pudiendo
+utilizar esas direcciones públicas y privadas enviando y recibiendo dinero.
+Hay que entender Bitcoin como una máquina de crear verdad en el tiempo, es muy importante
+entender que la cadena de bloques de Bitcoin es tan potente porque tiene una infraestructura,
+una red de seguridad alrededor de minería que tiene el poder de cómputo más fuerte
+del mundo en este momento.
+Cuando hacemos una transacción, ¿qué sucede?
+Queda un registro temporal de un envío que se ha hecho desde una dirección, de una ubicación
+a otra con una cantidad y un tiempo.
+Tenemos un sistema autónomo, independiente, neutral que dice qué tiene quién con una
+conexión a internet.
+Funciona a través de una serie de ordenadores que se llaman nodos, que lo que hacen es una
+copia de esa base de datos que se actualiza cada 10 minutos.
+Cada transacción tiene un identificador que se llama TXID, Transaction ID, que podemos
+buscar de forma pública y podemos auditar a tiempo real simplemente entrando en Google,
+buscando el TX de la transacción y viendo de dónde a dónde se hizo, a qué hora y qué
+cantidad.
+Se supone que Bitcoin es privado, es anónimo y no es así, Bitcoin es seudónimo.
+Siempre hay una dirección vinculada a una identidad, lo difícil es conectar la identidad
+a la dirección, pero esa dirección dentro de la blockchain tiene una trazabilidad absolutamente
+transparente.
+O sea, los delincuentes que utilizan Bitcoin se están tirando un tiro en el pie.
+Imaginémonos que compran drogas en la Deep Web o cualquier cosa, eso quedaría reflejado
+y almacenado en la blockchain para siempre y no puedes hacer nada para quitarlo o para
+cambiarlo.
+Te podrían perseguir.
+Con lo cual, ese mito de que Bitcoin es para delinquir no es más que un mito.
+Yo lo llevaría al ejemplo contrario, el uso de Bitcoin, de una blockchain pública abierta
+descentralizada al uso de las instituciones públicas y pudiésemos ver esas direcciones
+que gestionan nuestros impuestos, en qué se están invirtiendo, en qué se están gastando
+los fondos que se recaudan de los ciudadanos, porque lo podríamos ver y auditar todos a
+tiempo real.
+Eso sería muy interesante.
+Y ya digo, funcionan con identificadores y funcionan además con bloques que tienen una
+capacidad de un mega de almacenamiento, que vienen a ser entre 3.500 y 4.000 transacciones,
+aunque sí que es verdad que hubo una actualización en la red de Bitcoin que fue Segwit, que lo
+que permitió fue un nuevo tipo de transacción que ocupa menos dentro de los bloques y que
+le da un poquito más de escalabilidad, pero es totalmente auditable y ya digo, lo que
+se hace en la cadena de bloques es ordenar todas las transacciones cronológicamente
+y hacer una copia en una serie de nodos, que son los ordenadores que cooperan entre ellos
+para dar seguridad a la red.
+Y como comentaba, a nivel de computaciones es la más potente del mundo, es imposible
+que se hackee Bitcoin.
+Bueno, se habla de ordenadores cuánticos y todo esto, sería meternos en otra historia,
+pero está bastante complicado.
+Lo que tiene que saber el usuario es eso, que utiliza una red totalmente segura, que
+es una red además peer-to-peer, sin necesidad de intermediarios para transferir o almacenar
+valor y que te conecta con cada individuo del planeta que tenga un wallet instalado
+en su móvil y nos permite transaccionar desde un céntimo hasta millones de euros, con lo
+cual una red de pagos global, descentralizada, protegida, incensurable, segura, es una maravilla.
+KYC es KYC, que al final es Know Your Customer, sería conoce a tu cliente, que es un requerimiento
+por parte de los supervisores para que todas aquellas empresas que, en nuestro caso, venden
+Bitcoin o criptoactivos, tengan que hacer una identificación inicial de los usuarios
+que van a utilizar la plataforma para comprar y vender.
+Es un proceso, nosotros tenemos una vertical que es como, o dentro de la empresa, una vertical
+que es Compliance, que se encarga de gestionar todo este trabajo, que también tendría un
+banco tradicional y AML, OFT, sería Anti Money Laundry o Financiación al Terrorismo,
+que sería una forma de evitar que las personas que quieren utilizar esta tecnología para
+blanquear dinero, puedan comprar y puedan vender a través de una plataforma como Bit2Me.
+¿Qué hacemos para evitarlo? Pues nosotros a veces pedimos origen de fondos, el origen
+de fondos básicamente es preguntar al comprador o al vendedor de dónde ha sacado el dinero
+o que justifique de alguna manera que tiene una actividad económica detrás, que tiene
+una empresa, que ha vendido un inmueble, que está jubilado, que tiene una nómina, etcétera,
+y que está haciendo uso de parte de ese capital para comprar, ¿no? O sea, nosotros no podemos
+vender a clientes que no justifiquen el origen del dinero que quieren usar para comprar Bitcoin
+o criptoactivos, y eso es un poco la definición o la posición que tiene Bit2Me con respecto
+a AML, OFT, que es fundamental, ¿no? Para poder crecer y separar la paja del trigo,
+separar a la gente, a los actores maliciosos que quieren utilizar Bitcoin con malos fines, ¿no?
+Lo que nos pone encima de la mesa la tecnología de Bitcoin y de los criptoactivos es poder
+contar con un sistema auditable y transparente que cualquier persona pueda validar, verificar
+desde su propia casa, y que además es un sistema predecible, no solamente es verificable
+en tiempo real, sino que es predecible. ¿Qué quiero decir con predecible? Porque alguno
+dirá, no, Bitcoin es muy volátil, sube y baja de precio muchísimo. Quiero decir que
+es predecible en su emisión, o sea, Bitcoin van a existir 21 millones de unidades, suceda
+lo que suceda, tiene un calendario marcado basado en matemáticas y criptografía, con
+un proceso de ir reduciendo esa emisión cada 4 años, cada 210.000 bloques minados, o sea,
+cada bloque que se mina se da una recompensa a los mineros, eso va a seguir sucediendo
+hasta el año 2140, y cada 210.000 bloques la recompensa se divide entre dos. Ahora estamos
+en 6,25 en este momento. Y más o menos, para que nos hagamos una idea, cada 10 minutos
+se cierra un bloque. Y todo eso es auditable, o sea, todo lo que estoy comentando es así
+y va a seguir siendo así hasta el año 2140. Entonces, claro, eso nos da una predictibilidad,
+nos da una forma de organizarnos, de ahorrar en un sistema predecible, no en un sistema
+donde hoy se deciden emitir miles de millones de euros de la nada para dárselo a una serie
+de personas para que lo gestionen y todos los demás que tenemos dinero, de ese tipo
+de dinero nos empobrecemos, como estamos viendo con la inflación. No es auditable el sistema
+aquello del que venimos y el sistema hacia el que vamos sí que lo es.
+Subtítulos realizados por la comunidad de Amara.org
