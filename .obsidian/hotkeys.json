@@ -1,1 +1,11 @@
-{}
+{
+  "git-sync:push-git": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ]
+}
