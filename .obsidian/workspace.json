@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e0031feb2b4a4177",
+        "id": "50d42bf4c7a721bc",
         "type": "tabs",
         "children": [
           {
-            "id": "d83fc176b3bcb27b",
+            "id": "45e9f6a0116c4428",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -134,7 +134,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3aebcde35dbaf390",
+  "active": "45e9f6a0116c4428",
   "lastOpenFiles": [
     "B0.Web3MBA_PRO/05.Presentación.md",
     "B0.Web3MBA_PRO/04.A_qué_tengo_acceso?.md",
