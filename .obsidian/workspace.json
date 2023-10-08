@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "50d42bf4c7a721bc",
+        "id": "736d96fc59347e12",
         "type": "tabs",
         "children": [
           {
-            "id": "45e9f6a0116c4428",
+            "id": "e8a093bac710b53a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -136,6 +136,18 @@
   },
   "active": "3aebcde35dbaf390",
   "lastOpenFiles": [
+    "B1. Introducción_a_las_criptomonedas/B1.U2.Blockchain,_la_tecnología_para_descentralizar_el_dinero/41.B1.U2.6_Blockchain_-_Casos de uso.md",
+    "B1. Introducción_a_las_criptomonedas/B1.U2.Blockchain,_la_tecnología_para_descentralizar_el_dinero/40.B1.U2.5_Blockchain_-_Transparencia.md",
+    "B1. Introducción_a_las_criptomonedas/B1.U2.Blockchain,_la_tecnología_para_descentralizar_el_dinero/39.B1_Aportaciones_Blockchain.md",
+    "B1. Introducción_a_las_criptomonedas/B1.U2.Blockchain,_la_tecnología_para_descentralizar_el_dinero/38.B1.U2.4_Blockchain_-_Seguridad.md",
+    "B1. Introducción_a_las_criptomonedas/B1.U2.Blockchain,_la_tecnología_para_descentralizar_el_dinero/37.B1_Seguridad_de_Blockchain.md",
+    "B1. Introducción_a_las_criptomonedas/B1.U2.Blockchain,_la_tecnología_para_descentralizar_el_dinero/36.B1.U2.3_Blockchain_-_Evolución_de_la_tecnología.md",
+    "B1. Introducción_a_las_criptomonedas/B1.U2.Blockchain,_la_tecnología_para_descentralizar_el_dinero/35.B1.U2 .2.2_Blockchain_-_Consenso en la red.md",
+    "B1. Introducción_a_las_criptomonedas/B1.U2.Blockchain,_la_tecnología_para_descentralizar_el_dinero/34.B1.U2.2.1_Blockchain_-_Minería.md",
+    "B1. Introducción_a_las_criptomonedas/B1.U2.Blockchain,_la_tecnología_para_descentralizar_el_dinero/33.B1_Evolución_de_la tecnología_Blockchain.md",
+    "B1. Introducción_a_las_criptomonedas/B1.U2.Blockchain,_la_tecnología_para_descentralizar_el_dinero/32.B1.U2.2_Blockchain_-_Datos.md",
+    "B1. Introducción_a_las_criptomonedas/B1.U2.Blockchain,_la_tecnología_para_descentralizar_el_dinero/31.B1.U2.1_Qué_es_Blockchain_.md",
+    "B1. Introducción_a_las_criptomonedas/B1.U2.Blockchain,_la_tecnología_para_descentralizar_el_dinero",
     "B1. Introducción_a_las_criptomonedas/B1.U2.Práctica.Destripando_Blockchain/adjuntos/42.B1_Destripando_Blockchain.mp4",
     "B1. Introducción_a_las_criptomonedas/B1.U2.Práctica.Destripando_Blockchain/adjuntos/10_Destripando Blockchain | José Maldonado.mp4",
     "B1. Introducción_a_las_criptomonedas/B1.U2.Práctica.Destripando_Blockchain/adjuntos",
@@ -155,7 +167,6 @@
     "adjuntos/35.B1_Blockchain_-_Consenso en la red_1.png",
     "adjuntos/34.B1_Blockchain_-_Minería_2.png",
     "adjuntos/34.B1_Blockchain_-_Minería_1.png",
-    "adjuntos/33.B1_Evolución_de_la_tecnología_Blockchain.mp4",
     "adjuntos/32.B1_Blockchain_-_Datos.png",
     "adjuntos/40.B1_Blockchain_-_Transparencia_2.png",
     "B1. Introducción_a_las_criptomonedas/B1.U2.Blockchain, la tecnología para descentralizar el dinero/adjuntos/35.B1_Blockchain_-_Consenso en la red_2.png",
@@ -163,7 +174,6 @@
     "B1. Introducción_a_las_criptomonedas/B1.U2.Blockchain, la tecnología para descentralizar el dinero/adjuntos/34.B1_Blockchain_-_Minería_1.png",
     "B1. Introducción_a_las_criptomonedas/B1.U2.Blockchain, la tecnología para descentralizar el dinero/41.B1.U2.6_Blockchain_-_Casos de uso.md",
     "B1. Introducción_a_las_criptomonedas/B1.U2.Blockchain, la tecnología para descentralizar el dinero/40.B1.U2.5_Blockchain_-_Transparencia.md",
-    "B1. Introducción_a_las_criptomonedas/B1.U2.Blockchain, la tecnología para descentralizar el dinero/adjuntos/39.B1_Aportaciones_Blockchain.mp4",
     "B1. Introducción_a_las_criptomonedas/B1.U2.Blockchain, la tecnología para descentralizar el dinero/39.B1_Aportaciones_Blockchain.md",
     "B1. Introducción_a_las_criptomonedas/B1.U2.Blockchain, la tecnología para descentralizar el dinero/39..md",
     "B1. Introducción_a_las_criptomonedas/B1.U2.Blockchain, la tecnología para descentralizar el dinero/video 1.md",
@@ -171,16 +181,6 @@
     "B1. Introducción_a_las_criptomonedas/B1.U2.Blockchain, la tecnología para descentralizar el dinero/40. 1.md",
     "B1. Introducción_a_las_criptomonedas/B1.U2.Blockchain, la tecnología para descentralizar el dinero/40..md",
     "B1. Introducción_a_las_criptomonedas/B1.U2.Blockchain, la tecnología para descentralizar el dinero/texto 1.md",
-    "B1. Introducción_a_las_criptomonedas/B1.U2.Blockchain, la tecnología para descentralizar el dinero/38.B1.U2.4_Blockchain_-_Seguridad.md",
-    "B1. Introducción_a_las_criptomonedas/B1.U1.Criptomonedas,_el_inicio_de_la_revolución_del_dinero/15.B1_Web3MBA_-_Formulario.md",
-    "B1. Introducción_a_las_criptomonedas/B1.U1.Criptomonedas,_el_inicio_de_la_revolución_del_dinero/22.B1_Los_secretos_del_valor_de_Bitcoin.md",
-    "B1. Introducción_a_las_criptomonedas/B1.U1.Criptomonedas,_el_inicio_de_la_revolución_del_dinero/28.B1_La_expansión_de_las_criptomonedas.md",
-    "B1. Introducción_a_las_criptomonedas/B1.U1.Criptomonedas,_el_inicio_de_la_revolución_del_dinero/29.B1.U1.4_Criptomonedas_-_Expansión.md",
-    "B1. Introducción_a_las_criptomonedas/B1.U1.Criptomonedas,_el_inicio_de_la_revolución_del_dinero/30.B1_Evolución_de_Blockchain.md",
-    "B1. Introducción_a_las_criptomonedas/B1.U1.Criptomonedas,_el_inicio_de_la_revolución_del_dinero/10.B1_Bitcoin.md",
-    "B1. Introducción_a_las_criptomonedas/B1.U1.Criptomonedas,_el_inicio_de_la_revolución_del_dinero/08.B1_Blockchain.md",
-    "B1. Introducción_a_las_criptomonedas/B1.U2.Blockchain, la tecnología para descentralizar el dinero/33.B1_Evolución_de_la tecnología_Blockchain.md",
-    "B1. Introducción_a_las_criptomonedas/B1.U2.Blockchain, la tecnología para descentralizar el dinero/37.B1_Seguridad_de_Blockchain.md",
-    "B1. Introducción_a_las_criptomonedas/B1.U2.Blockchain, la tecnología para descentralizar el dinero/37.B1.Seguridad_de_Blockchain.md"
+    "B1. Introducción_a_las_criptomonedas/B1.U2.Blockchain, la tecnología para descentralizar el dinero/38.B1.U2.4_Blockchain_-_Seguridad.md"
   ]
 }
