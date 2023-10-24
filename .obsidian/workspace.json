@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "736d96fc59347e12",
+        "id": "49b0d4d3ae0d9c98",
         "type": "tabs",
         "children": [
           {
-            "id": "e8a093bac710b53a",
+            "id": "ec7fb0b60e1675bf",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -134,8 +134,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3aebcde35dbaf390",
+  "active": "ec7fb0b60e1675bf",
   "lastOpenFiles": [
+    "B1.Introducción_a_las_criptomonedas/B1.U10.Cómo_enviar_y_recibir_transacciones/79.B1.U10.1_Enviar_y_recibir_nuestros_primeros_BTC_en_nuestro_monedero.md",
     "B1. Introducción_a_las_criptomonedas/B1.U2.Blockchain,_la_tecnología_para_descentralizar_el_dinero/41.B1.U2.6_Blockchain_-_Casos de uso.md",
     "B1. Introducción_a_las_criptomonedas/B1.U2.Blockchain,_la_tecnología_para_descentralizar_el_dinero/40.B1.U2.5_Blockchain_-_Transparencia.md",
     "B1. Introducción_a_las_criptomonedas/B1.U2.Blockchain,_la_tecnología_para_descentralizar_el_dinero/39.B1_Aportaciones_Blockchain.md",
@@ -180,7 +181,6 @@
     "B1. Introducción_a_las_criptomonedas/B1.U2.Blockchain, la tecnología para descentralizar el dinero/41..md",
     "B1. Introducción_a_las_criptomonedas/B1.U2.Blockchain, la tecnología para descentralizar el dinero/40. 1.md",
     "B1. Introducción_a_las_criptomonedas/B1.U2.Blockchain, la tecnología para descentralizar el dinero/40..md",
-    "B1. Introducción_a_las_criptomonedas/B1.U2.Blockchain, la tecnología para descentralizar el dinero/texto 1.md",
-    "B1. Introducción_a_las_criptomonedas/B1.U2.Blockchain, la tecnología para descentralizar el dinero/38.B1.U2.4_Blockchain_-_Seguridad.md"
+    "B1. Introducción_a_las_criptomonedas/B1.U2.Blockchain, la tecnología para descentralizar el dinero/texto 1.md"
   ]
 }
