@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "49b0d4d3ae0d9c98",
+        "id": "62c20dc6ca000e83",
         "type": "tabs",
         "children": [
           {
-            "id": "ec7fb0b60e1675bf",
+            "id": "25bdfdc05ea26f1d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -134,7 +134,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ec7fb0b60e1675bf",
+  "active": "25bdfdc05ea26f1d",
   "lastOpenFiles": [
     "B1.Introducción_a_las_criptomonedas/B1.U10.Cómo_enviar_y_recibir_transacciones/79.B1.U10.1_Enviar_y_recibir_nuestros_primeros_BTC_en_nuestro_monedero.md",
     "B1. Introducción_a_las_criptomonedas/B1.U2.Blockchain,_la_tecnología_para_descentralizar_el_dinero/41.B1.U2.6_Blockchain_-_Casos de uso.md",
