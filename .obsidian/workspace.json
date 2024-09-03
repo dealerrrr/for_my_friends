@@ -130,7 +130,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Abrir vista de gráfico": false,
+      "graph:Abrir vista gráfica": false,
       "command-palette:Abrir paleta de comandos": false
     }
   },
