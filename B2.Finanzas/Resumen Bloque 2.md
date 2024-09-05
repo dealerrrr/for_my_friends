@@ -1,8 +1,6 @@
 ---
 title: Resumen Bloque 2 Finanzas
-Tags/Keywords: #Resumen #mba #web3 #Bloque 2 #Finanzas #Quizz #B2U1 #Fundamentos Económicos #Microecpnomía #Macroeconomía #Economía de la innovación #innovación #Economía #B2U2 #Contabilidad #Miguel Ángel Sepúlveda #criptomonedas y contabilidad #finanzas corporativas #Ximo Catalán #financiación #B2U3 #Áreas de las finanzas corporativas #Análisis de las 5 fuerzas de Porter #Héctor Albert González #Análisis de las 5 fuerzas #Porter #Analisis PESTEL #Héctor Albert González #Pestel #Análisis DAFO #Análisis FODA #DAFO #FODA #B2U4 #Gestión económica #Finanzas Corporativas #Bases de Gestión económica #Salud de empresa #Blockchain empresarial #María Sáenz de Buruaga #B2U5 #Descentralización Corporativa #Implementación de Blockchain en empresas # Adaptación al universo Blockchain #Casos de Blockchain en empresas #Blockchain en empresas #amazon #r3 #guildone #kirk #Aplicando Blockchain a una empresa #José Maldonado #Introducción a la Banca #Francisco Maroto #B2U6 #Banca & Crypto #La Banca en el mundo digital #Banca Digital #Francisco Maroto #La Banca & Blockchain
-
-
+Tags/Keywords: #Resumen #mba #web3 #Bloque 2 #Finanzas #Quizz #B2U1 #Fundamentos Económicos #Microecpnomía #Macroeconomía #Economía de la innovación #innovación #Economía #B2U2 #Contabilidad #Miguel Ángel Sepúlveda #criptomonedas y contabilidad #finanzas corporativas #Ximo Catalán #financiación #B2U3 #Áreas de las finanzas corporativas #Análisis de las 5 fuerzas de Porter #Héctor Albert González #Análisis de las 5 fuerzas #Porter #Analisis PESTEL #Héctor Albert González #Pestel #Análisis DAFO #Análisis FODA #DAFO #FODA #B2U4 #Gestión económica #Finanzas Corporativas #Bases de Gestión económica #Salud de empresa #Blockchain empresarial #María Sáenz de Buruaga #B2U5 #Descentralización Corporativa #Implementación de Blockchain en empresas # Adaptación al universo Blockchain #Casos de Blockchain en empresas #Blockchain en empresas #amazon #r3 #guildone #kirk #Aplicando Blockchain a una empresa #José Maldonado #Introducción a la Banca #Francisco Maroto #B2U6 #Banca & Crypto #La Banca en el mundo digital #Banca Digital #Francisco Maroto #La Banca & Blockchain #Productos Derivados y Estructurados #B2U7 #Derivados y productos estructurados #Brokerage #Bróker #Corredor #Riesgo en productos financieros #Xperts #Angels Capital #Javier de Toro
 lang: es-AR
 ---
 # Bloque 2: Finanzas
@@ -753,17 +751,221 @@ Sin embargo, también existen retos:
 
 Es fundamental seguir estos aspectos para mitigar riesgos al operar en el espacio blockchain y cripto.
 
+## Unidad 7: Productos Derivados y Estructurados
+Los **productos derivados** son instrumentos financieros cuyo valor depende del valor de otro activo subyacente. Se clasifican según su complejidad, características y el tipo de agentes que invierten en ellos. Existen dos usos principales para los derivados: **hedging** (cobertura) y **especulación**. Por ejemplo, un inversor con una hipoteca a tipo fijo puede utilizar un derivado para beneficiarse de una posible bajada de tipos de interés.
+
+Los derivados se dividen en dos categorías principales:
+1. **Derivados simples (vanilla)**: Tienen características estándar que permiten su cotización en mercados organizados, lo que proporciona mayor liquidez.
+2. **Derivados exóticos**: Son más complejos y personalizados, negociándose generalmente en mercados OTC (Over-the-counter).
+
+Además, los derivados pueden clasificarse según el tipo de subyacente:
+- Derivados de **tipo de interés**
+- Derivados de **divisas**
+- Derivados sobre **acciones**
+- Derivados sobre **commodities**
+- Derivados de **crédito**, como los que contribuyeron a la crisis financiera de Lehman Brothers.
+- Derivados sobre **criptomonedas**, como opciones y futuros basados en Bitcoin o Ethereum.
+
+Entre los tipos más conocidos se encuentran:
+- **Opciones**: Contratos que dan derecho a comprar (CALL) o vender (PUT) un activo a un precio determinado.
+- **Futuros**: Acuerdos para comprar o vender un activo a un precio fijado en una fecha futura.
+- **CFDs (Contratos por Diferencia)**: Acuerdos donde las partes compensan la diferencia entre el precio al abrir y cerrar el contrato.
+
+Por otro lado, los **productos estructurados** combinan uno o más instrumentos financieros (como bonos con derivados) para alcanzar resultados específicos. Estos productos pueden ofrecer diferentes niveles de garantía:
+1. Estructurados con garantía de capital al vencimiento: Se garantiza la devolución del capital invertido.
+2. Estructurados con riesgo: No hay garantía del capital, lo que implica la posibilidad de ganar o perder significativamente.
+
+En conclusión, tanto los productos derivados como los estructurados son herramientas financieras complejas que requieren un conocimiento adecuado debido a su alto riesgo y regulación estricta.
 
 
+### Brokerage
+El video aborda el papel fundamental de los brokers como intermediarios en diversas transacciones financieras, desde inversiones hasta préstamos y compra de bienes. Los brokers facilitan la conexión entre compradores y vendedores, ejecutan órdenes en mercados financieros y ofrecen información valiosa para la toma de decisiones.
 
+#### Tipos de Brokers
+1. **Por forma de operar**:
+    - **Dealing Desk o Market Makers**: Tienen su propia liquidez y order book.
+    - **Intermediación pura**: Conectan a los clientes con otros brokers o mercados.
+    - **Híbridos**: Buscan la mejor ejecución entre sus propios libros y terceros.
+2. **Por servicios ofrecidos**:
+    - **Corredores de bolsa de servicio completo**: Ofrecen ejecución, información y asesoramiento.
+    - **Brokers más sencillos**: Menos complejos, con tarifas más bajas.
+    - **Brokers en línea**: Acceso a través de Internet, formato do-it-yourself con comisiones reducidas.
 
+#### Riesgos Asociados
+Trabajar con brokers implica riesgos, especialmente el riesgo de contraparte, que se refiere a la posibilidad de que el broker no actúe correctamente o quiebre. Es crucial conocer cómo gestionan los fondos (cuentas segregadas vs. cuentas omnibus) y si ofrecen garantías o seguros similares a los fondos de garantía en depósitos bancarios.
 
+#### Gestión de Riesgos Financieros
+La gestión activa del riesgo implica identificar, analizar y mitigar riesgos potenciales. Los principales riesgos financieros incluyen:
+- **Riesgo de mercado**: Volatilidad en inversiones como criptomonedas.
+- **Riesgo crediticio**: Posibilidad de impago en préstamos.
+- **Riesgo de liquidez**: Problemas para cubrir obligaciones financieras.
 
+Además, se deben considerar riesgos no financieros como operacionales, tecnológicos y reputacionales.
 
+#### Principios Clave
+1. La gestión del riesgo debe ser una cultura organizacional que involucre a todos los niveles.
+2. Se deben definir políticas claras y establecer líneas de defensa (comerciales, equipos de riesgo y auditoría).
+3. Mantener un equilibrio entre control del riesgo y apertura al negocio es esencial para el crecimiento.
 
+#### Metodología
+Para gestionar riesgos:
+1. Definir objetivos estratégicos.
+2. Analizar procesos e identificar riesgos por impacto y probabilidad.
+3. Tomar decisiones sobre mitigación o aceptación del riesgo residual.
+4. Supervisar continuamente el proceso para adaptarse a cambios en el entorno.
 
+#### Conclusión
+La gestión adecuada del riesgo es vital para operar eficazmente en mercados financieros tradicionales y cripto. La reciente volatilidad en el mercado cripto ha evidenciado la importancia crítica de una buena gestión del riesgo; entidades como Celsius han enfrentado problemas debido a fallas en esta área, lo que ha afectado a otros actores del mercado interconectados.
 
+En resumen, entender bien las funciones del broker, los tipos disponibles, así como implementar una sólida estrategia de gestión del riesgo son pasos fundamentales para minimizar pérdidas potenciales e impulsar oportunidades dentro del ámbito financiero actual.
 
+### Brókeres
+Un bróker es un intermediario que conecta a compradores y vendedores para facilitar transacciones en diversas áreas, como inversiones, préstamos y bienes inmuebles. Existen tres tipos principales de brókeres: **en línea**, **de descuento** y **de servicio completo**.
 
+#### Funciones del Bróker
+1. Ejecutar operaciones en mercados financieros.
+2. Proporcionar apoyo informativo sobre plataformas de negociación.
+3. Ofrecer información sobre otros participantes del mercado.
+4. Prestar dinero para operaciones de margen.
+5. Almacenar y proteger datos de clientes.
+6. Crear una base técnica para transacciones.
 
+#### Tipos de Bróker
+1. **Por forma de operar:**
+    - Dealing Desk (Market Maker)
+    - Non Dealing Desk (NDD) o Híbrido
+2. **Por tipo de servicios:**
+    - **Corredores de servicio completo:** Ofrecen atención personalizada y una amplia gama de servicios, incluyendo investigación de mercados.
+    - **Corredores de descuento:** Cuentan con menores costos operativos y ofrecen plataformas autoservicio con comisiones bajas.
+    - **Brókeres en línea:** Interactúan digitalmente, ofreciendo rapidez y bajas comisiones.
 
+#### Especialidades del Corretaje
+- **Correduría de bolsa:** Intermediarios en mercados financieros que facilitan la compra/venta de activos.
+- **Correduría de crédito:** Asisten en la selección y obtención de préstamos.
+- **Corredor de arrendamiento financiero:** Especialistas en leasing para equipos.
+- **Correduría de divisas:** Proporcionan acceso al mercado Forex.
+- **Intermediación inmobiliaria:** Facilitan la compra/venta de propiedades.
+- **Correduría empresarial:** Ayudan en la compra/venta de negocios existentes.
+- **Correduría de seguros:** Buscan mejores ofertas y elaboran pólizas con descuentos.
+
+#### Riesgos al trabajar con Brókeres
+1. Posibilidad de acciones maliciosas o quiebra del bróker.
+2. Vigilancia sobre la gestión financiera del bróker; preferir brókeres regulados que mantengan cuentas separadas.
+3. Importancia del respaldo por Fondos Garantía de Inversión para proteger inversiones ante quiebras (ejemplo: SIPC).
+4. Verificar si el bróker cotiza en bolsa como medida preventiva ante problemas financieros.
+5. Evaluar el apalancamiento ofrecido; altos niveles pueden indicar riesgos adicionales (cuentas Ómnibus).
+6. Revisar la Clearing Firm utilizada por el bróker para asegurar el cumplimiento legal y financiero.
+7. Diversificación: No concentrar todas las inversiones en un solo bróker; tener cuentas en múltiples plataformas puede mitigar riesgos.
+
+Este resumen destaca los conceptos clave relacionados con los brókeres, sus funciones, tipos, especializaciones y los riesgos asociados a su uso, proporcionando una visión clara sobre su papel en el mercado financiero.
+
+### Gestión del Riesgo Financiero
+La **Gestión del Riesgo Financiero** se enfoca en identificar, analizar y mitigar los efectos negativos de los riesgos, tanto financieros como no financieros. Las empresas buscan conocer los riesgos a los que se enfrentan y tomar acciones preventivas o correctivas.
+
+#### Enfoques de Gestión de Riesgos
+- **Tradicional:** Se ve como una obligación relacionada con amenazas y crisis.
+- **Moderno:** Se percibe el riesgo como una oportunidad para abrir nuevos negocios y mejorar resultados, involucrando a toda la organización.
+
+#### Principales Áreas de Riesgo
+1. **Inversiones:** Dificultad en estimar la rentabilidad futura.
+2. **Financiación:** Costes y obligaciones contractuales, riesgo de impago por endeudamiento excesivo.
+3. **Actividad Comercial:** Retrasos en cobros e insolvencia de clientes.
+
+#### Principios de la Gestión del Riesgo
+1. **Responsabilidad Organizacional**
+2. **Inversión en Recursos**
+3. **Mentalidad Preventiva**
+
+Se busca un equilibrio entre el exceso de riesgo y el exceso de control para evitar errores o burocracia que limite oportunidades.
+
+#### Metodología
+Consta de varias fases:
+1. Definir objetivos estratégicos.
+2. Estudiar riesgos asociados.
+3. Evaluar procesos (end to end).
+4. Elaborar informes de riesgos.
+5. Tomar decisiones basadas en la ponderación de riesgos.
+6. Supervisión continua del modelo.
+
+#### Factores de Riesgo
+##### Externos:
+- **De Mercado:** Caídas en demanda o precios, cambios tecnológicos (ejemplo: guerra del silicio).
+- **De Crédito:** Dificultades para acceder a financiación (ejemplo: subida de tipos por la FED).
+- **Legales y Normativos:** Cambios regulatorios que pueden acarrear multas.
+- **Sistémicos:** Alta exposición pública que puede dañar la reputación.
+
+##### Internos:
+- **Falta de Liquidez:** Control deficiente sobre tesorería.
+- **Errores Estratégicos:** Mala planificación operativa.
+- **Gestión Comercial:** Importancia en asegurar clientes y cobros ágiles.
+- **Riesgos Operativos:** Errores humanos o logísticos que generan pérdidas.
+- **Riesgos Laborales:** Problemas con personal adecuado y ambiente laboral.
+
+#### Minimización del Riesgo Financiero
+Para reducir el riesgo financiero es crucial contar con personal cualificado, estar actualizado y utilizar herramientas estadísticas:
+1. Controlar rentabilidad de inversiones.
+2. Anticiparse al futuro mediante información adecuada.
+3. Diversificar inversiones en diferentes activos.
+4. Estudiar resultados obtenidos para aprender y mejorar.
+5. Utilizar herramientas para gestionar riesgos (ejemplo: seguros).
+
+En resumen, una gestión eficaz del riesgo financiero permite tomar decisiones informadas, anticiparse a problemas futuros y aprovechar oportunidades, contribuyendo así al éxito organizacional sostenible.
+
+## Xperts: Angels Capital
+**Angels Capital** es un fondo de capital riesgo fundado en 2008 por Juan Roig, con el objetivo de invertir en **negocios sostenibles y escalables** utilizando el modelo de calidad total. El enfoque principal del fondo es apoyar a **startups** lideradas por emprendedores con capacidad de liderazgo y un fuerte enfoque en los clientes, así como en tecnologías transformadoras.
+
+### Puntos Clave
+1. **Importancia del Equipo:**
+    - La evaluación inicial se centra en el **líder del proyecto**, ya que su pasión y perseverancia son cruciales para navegar los desafíos empresariales.
+    - Se presta especial atención al **Investor Deck**, donde se analiza la experiencia del equipo y su capacidad para atraer inversores y clientes.
+2. **Evolución de la Financiación:**
+    
+    - Se ha observado un cambio hacia la firma digital en lugar de métodos tradicionales.
+    - La financiación principal debe provenir de los **clientes**, aunque se reconoce la necesidad de inversión inicial, especialmente en sectores como biotecnología y tecnologías profundas.
+3. **Fuentes Alternativas de Financiación:**    
+    - Existen diversas fuentes como business angels, fondos de venture capital, financiación pública y alternativas emergentes como ICOs y NFTs.
+    - Se considera que estas nuevas formas pueden ser útiles, pero deben tener una utilidad real más allá del especulativo.
+4. **Tendencias Tecnológicas:**    
+    - Hay un creciente interés por proyectos relacionados con el **metaverso**, criptomonedas y gaming.
+    - Se enfatiza la necesidad de validar las tecnologías mediante expertos técnicos antes de invertir.
+5. **Desafíos en B2B:**    
+    - Las empresas tradicionales son reacias a adoptar tecnologías disruptivas debido a riesgos percibidos.
+    - Los costos asociados a las plataformas basadas en blockchain pueden ser más altos que soluciones tradicionales.
+6. **Visión Futura:**    
+    - Se anticipa que las criptomonedas jugarán un papel importante en transacciones futuras, aunque actualmente su uso es limitado.
+    - El concepto de **Lean Startup** se aplica para validar rápidamente si hay mercado para un producto antes de realizar inversiones significativas.
+7. **Enfoque del Inversor:**    
+    - Angels Capital busca emprendedores con una clara visión sobre cómo escalar sus negocios sin interferir directamente en sus decisiones operativas.
+    - El apoyo se brinda principalmente en áreas como gestión financiera, recursos humanos y resolución de problemas cotidianos.
+
+En conclusión, Angels Capital se posiciona como un inversor estratégico que prioriza el liderazgo sólido y la validación del mercado antes de comprometer recursos financieros significativos.
+
+## Dtalks: Legislación Crypto
+En esta charla, Gonzalo de Cisae y Eduardo Gotsch discuten la intersección entre el derecho y la tecnología blockchain, así como los desafíos y oportunidades que presenta el sector cripto.
+
+### Presentación de los Ponentes
+- **Gonzalo**: Abogado con experiencia en tecnología jurídica y ciberseguridad. Se define como un abogado tecnológico que se adapta a las innovaciones, incluyendo blockchain.
+- **Eduardo**: Con 25 años de experiencia en derecho mercantil y concursal, ha incursionado en el mundo cripto tras descubrir su potencial. Ha fundado empresas relacionadas con trazabilidad y tokenización.
+
+### Temas Clave
+1. **Regulación y CBDCs**:
+    - Ambos ponentes coinciden en que las **CBDCs (Monedas Digitales de Banco Central)** serán obligatorias y pueden ofrecer seguridad al mercado cripto. Sin embargo, también implican un mayor control estatal sobre los ciudadanos.
+    - Las CBDCs podrían facilitar la recaudación de impuestos y reducir la evasión fiscal, pero también plantean riesgos para la privacidad.
+2. **Usabilidad y Adopción**:   
+    - La adopción masiva del cripto depende de la usabilidad. Si las interfaces son amigables (como Bizum), más personas se sumarán al uso de criptomonedas.
+    - Se observa un aumento en empresas que aceptan pagos en criptomonedas, aunque aún existen barreras debido a la volatilidad del mercado.
+3. **Desafíos del Sector Cripto**:    
+    - Existe una falta de conocimiento jurídico entre muchos emprendedores del sector cripto, lo que puede llevar a problemas legales.
+    - La reputación negativa asociada a las criptomonedas puede ser una barrera para grandes empresas que temen involucrarse sin una regulación clara.
+4. **Educación y Formación Profesional**:    
+    - Los profesionales del derecho deben adquirir conocimientos sobre tecnología blockchain para asesorar adecuadamente a sus clientes.
+    - Hay una necesidad urgente de formar abogados con habilidades tanto jurídicas como tecnológicas para abordar los desafíos del sector cripto.
+5. **Ecosistema Empresarial Cripto**:    
+    - Las startups tecnológicas suelen carecer de conocimientos jurídicos adecuados, lo que puede resultar en problemas regulatorios.
+    - Las grandes corporaciones son reactivas ante cambios tecnológicos; muchas veces esperan hasta sentir presión antes de adoptar nuevas tecnologías.
+6. **Futuro del Derecho Cripto**:    
+    - La regulación seguirá evolucionando; se espera que surjan nuevos modelos legales adaptados a las tecnologías emergentes.
+    - La creación de departamentos especializados dentro de despachos jurídicos es esencial para ofrecer un servicio integral que abarque todas las áreas necesarias (fiscalidad, mercantil, regulatorio).
+
+### Conclusión
+La conversación destaca la importancia de entender tanto el marco legal como el tecnológico en el ámbito cripto. A medida que avanza la regulación y aumenta la adopción tecnológica, será crucial contar con profesionales capacitados que puedan navegar estos nuevos desafíos.
