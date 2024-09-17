@@ -1,7 +1,7 @@
 ---
 title: Minería de criptomonedas | Lucas Guasch
 URL: https://app.web3mba.io/courses/take/bloque-1-introduccion-a-las-criptomonedas/lessons/39203326-lucas-guasch-mineria-de-criptomonedas
-Tags/Keywords: #Minería de criptomonedas #Lucas Guasch #Minería
+Tags/Keywords: #Bloque 1 #Introduccion a las cirptomonedas #B1U3 #Minería de criptomonedas #Minería #criptomonedas #Lucas Guasch
 lang: es-AR
 ---
 # Minería de criptomonedas
