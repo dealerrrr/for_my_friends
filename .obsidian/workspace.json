@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "cb80bcd7713fdd1d",
+        "id": "b6d0c83afcdce915",
         "type": "tabs",
         "children": [
           {
-            "id": "3f6c655f7106e941",
+            "id": "308852c3eccd189f",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 428.5
+    "width": 335.5
   },
   "right": {
     "id": "eed4b88d8ac2bae2",
@@ -134,14 +134,38 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3aebcde35dbaf390",
+  "active": "308852c3eccd189f",
   "lastOpenFiles": [
-    "B4.Tecnologías_Descentralizadas/B4.U6.DeFi/233.U6.3_DeFi-Futuro.md",
-    "B3E2.Plataformas_de_análisis_técnico/191.B3_Herramientas_de_Análisis_y_Métricas-video.md",
-    "B3E1.Herramientas_de_análisis_técnico/189.B3_Indicadores_On-Chain-video.md",
-    "B3E1.Herramientas_de_análisis_técnico/187.B3_Indicadores_Técnicos-video.md",
-    "B3.Trading/B3.U4.Trading_de_Criptomonedas/161.B3_Trading_de_Criptomonedas._Primeros_pasos-Video.md",
-    "B3.Trading/B3.U4.Trading_de_Criptomonedas/159.B3_Trading_de_Criptomonedas._Primeros_pasos-Video.md",
+    "B1.Introducción_a_las_criptomonedas.md",
+    "adjuntos/02.B0_estructura.png",
+    "adjuntos/483.E1_Algoritmo_Predictivo_de_Bitcoin_1.png",
+    "E3.Estrategia.md",
+    "E2.Sistemas_Descentralizados.md",
+    "E1.Análisis_&_IA.md",
+    "B8.Innovación.md",
+    "B7.Ciberseguridad.md",
+    "B6.Web3.0.md",
+    "B5.Tokenización.md",
+    "B4.Tecnologías_Descentralizadas.md",
+    "B3.Trading.md",
+    "B2.Finanzas.md",
+    "Copia de E2.Sistemas_Descentralizados.md",
+    "Copia de E1.Análisis_&_IA.md",
+    "Copia de B8.Innovación.md",
+    "Copia de B7.Ciberseguridad.md",
+    "Copia de B6.Web3.0.md",
+    "Copia de B5.Tokenización.md",
+    "Copia de B4.Tecnologías_Descentralizadas.md",
+    "Copia de B3.Trading.md",
+    "Copia de B2.Finanzas.md",
+    "Copia de B1.Introducción_a_las_criptomonedas.md",
+    "Copia de E3.Estrategia.md",
+    "Back-up/Copia de E3.Estrategia.md",
+    "Back-up/Copia de E1.Análisis_&_IA.md",
+    "Back-up/Copia de E2.Sistemas_Descentralizados.md",
+    "Back-up",
+    "E3.Estrategia/E3.U6.Drops,_ICOs_&_Utility_Token",
+    "E3.Estrategia/E3.U6.Drops,_ICOs_&_Utility_Tokens",
     "adjuntos/430.B7E1_linux.png",
     "adjuntos/430.B7E1_mandatory.png",
     "430.B7E1_linux.png",
@@ -150,37 +174,12 @@
     "B7E1.Gestión_avanzada_de_seguridad_en_Windows_y_Linux/adjuntos/430.B7E1_linux.png",
     "B7E1.Gestión_avanzada_de_seguridad_en_Windows_y_Linux/adjuntos/430.B7_linux.png",
     "B7E1.Gestión_avanzada_de_seguridad_en_Windows_y_Linux/adjuntos/430.B7_mandatory.png",
-    "B7E1.Gestión_avanzada_de_seguridad_en_Windows_y_Linux/adjuntos/Pasted image 20240917175939.png",
-    "B7E1.Gestión_avanzada_de_seguridad_en_Windows_y_Linux/adjuntos/Pasted image 20240917175834.png",
     "B7E1.Gestión_avanzada_de_seguridad_en_Windows_y_Linux/adjuntos",
-    "E2.Sistemas_Descentralizados.md",
-    "E1.Análisis_&_IA.md",
-    "B8.Innovación.md",
-    "B7E3.Legislación_y_Ciberseguridad.md",
-    "B7E2.Hardening_de_sistemas_y_servicios.md",
-    "B7E1.Gestión_avanzada_de_seguridad_en_Windows_y_Linux.md",
-    "B7.Ciberseguridad.md",
-    "B6E2.Tu_primera_DApp_sobre_Ethereum.md",
-    "B6E1.Oráculos_sobre_Blockchain.md",
-    "B6.Web3.0.md",
-    "B5E4.Crea_tu_primer_NFT_en_Ethereum.md",
-    "B5E3.GameFi.md",
-    "B5E2.Tokenización_y_Arte.md",
-    "B5E1.Metaversos_y_NFTs.md",
-    "B5.Tokenización.md",
-    "B4E4.Sidechains_en_Bitcoin.md",
-    "B4E3.Miniscript-Smart_Contracts_en_Bitcoin.md",
-    "B4E2.Herramientas_de_Smart_Contracts_en_Ethereum.md",
-    "B4E1.Ecosistema_DeFi.md",
-    "B4.Tecnologías_Descentralizadas.md",
     "Copia de B7.Ciberseguridad/B7.U7.Seguridad_Defensiva",
     "Copia de B7.Ciberseguridad/Evaluación_Bloque_7",
     "Copia de B7.Ciberseguridad/B7.U4.Otros_Sistemas_de_Seguridad",
     "Copia de B7.Ciberseguridad/B7.U6.Introducción_al_Hacking",
     "Copia de B7.Ciberseguridad/B7.Xperts.Metamask",
-    "Copia de B7.Ciberseguridad/B7.U7P.Hacking",
-    "Copia de B7.Ciberseguridad/B7.ιDTalks.Ciberseguridad_en_Blockchain",
-    "Copia de B7.Ciberseguridad/B7.U1.Introducción_a_la_Criptografía",
-    "Copia de B7.Ciberseguridad/B7.U3.Criptografía_Aplicada_a_las_Criptomonedas"
+    "Copia de B7.Ciberseguridad/B7.U7P.Hacking"
   ]
 }
